@@ -1,2 +1,3 @@
-*#
-*.tmp
+*.eu
+*.euro
+env/
