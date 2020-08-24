@@ -1,8 +1,6 @@
 # 4eu
 
 
-> A Group _For European Union_
+> A Group for the _European Union_
 
 
-## Projects
-+ 
